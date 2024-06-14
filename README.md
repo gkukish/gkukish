@@ -6,4 +6,4 @@
 - 📫 How to reach me: you can reach me on my [email](giorgikukishvili@gmail.com) or through my [LinkedIn](https://www.linkedin.com/in/giorgikukishvili/).
 - ⚡ Fun fact: I have lived in 7 different countries and speak three languages fluently.
 # My Resume
-![Resume](https://github.com/gkukish/gkukish/blob/main/Giorgi%20Kukishvili.jpeg)
+![Resume](https://github.com/gkukish/gkukish/blob/main/Giorgi%20Kukishvili-resume.jpeg)
